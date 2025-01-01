@@ -56,4 +56,4 @@ The calculator will have a clean and user-friendly interface, allowing users to 
 2. Clone this repository or download the project files.
 3. Run the Python script:
    ```bash
-   python calculator.py
+   python main.py
